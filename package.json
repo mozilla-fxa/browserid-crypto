@@ -19,7 +19,7 @@
     "bignum": "~0.13.0"
   },
   "scripts": {
-    "postinstall": "node ./scripts/bundle.js",
+    "postinstall": "node ./scripts/package.js",
     "test": "vows"
   },
   "repository": {
